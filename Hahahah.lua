@@ -16,7 +16,7 @@ Settings = {
         ["Enabled"] = false
     },
 	["Multipliers"] = {
-		["Giant Chest"] = 0,
+		["Giant Chest"] = 100,
         ["Chest"] = 0,
         ["Small Chest"] = 0,
         ["Vault"] = 0,
